@@ -220,8 +220,8 @@ The authors and contributors are not responsible for any misuse of this software
 
 ## 🆘 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/whatsapp-bulk-messenger/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/whatsapp-bulk-messenger/discussions)
+- **Issues**: [GitHub Issues](https://github.com/eroniyom)
+- **Discussions**: [GitHub Discussions](https://github.com/Eroniyom/Whatsapp-Auto-Spam)
 - **Email**: your.email@example.com
 
 ## 🙏 Acknowledgments
@@ -240,5 +240,6 @@ The authors and contributors are not responsible for any misuse of this software
 - [ ] API integration
 
 ---
+
 
 **⭐ If you found this project helpful, please give it a star!**
