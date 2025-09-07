@@ -1,0 +1,10 @@
+# WhatsApp Contact List
+# Write one contact name per line
+# Lines starting with # are treated as comments
+
+# Example contacts:
+# John Doe
+# Jane Smith
+# Mike Johnson
+# Sarah Wilson
+# David Brown
