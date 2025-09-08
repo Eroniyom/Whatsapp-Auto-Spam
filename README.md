@@ -194,7 +194,7 @@ We welcome contributions! Please follow these steps:
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/whatsapp-bulk-messenger.git
+git clone https://github.com/eroniyom/Whatsapp-Auto-Spam.git
 
 # Install development dependencies
 pip install -r requirements.txt
@@ -243,3 +243,4 @@ The authors and contributors are not responsible for any misuse of this software
 
 
 **⭐ If you found this project helpful, please give it a star!**
+
